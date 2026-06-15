@@ -1,4 +1,5 @@
-//> using scala "3.3.1"
+//> using scala "3.3.8"
+//> using options -Yfuture-lazy-vals -java-output-version:11
 //> using dep "com.lihaoyi::cask:0.9.1"
 
 object MyApp extends cask.MainRoutes:
